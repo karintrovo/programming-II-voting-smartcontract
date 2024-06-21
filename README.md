@@ -18,7 +18,7 @@ The project is organized into several directories and subdirectories, containing
   - 00-voting-app.ipynb
   - 01-members-credentials.ipynb
   - 02-club-token.ipynb
-  - 03-members-receive-club-token.ipynb
+  - 03-members-receive-senate-token.ipynb
   - 04-voting-smart-contract.ipynb
 
 - **assets**
