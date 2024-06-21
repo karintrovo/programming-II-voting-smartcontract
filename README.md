@@ -16,21 +16,17 @@ The project is organized into several directories and subdirectories, containing
 
 - **code**
   - 00-voting-app.ipynb
-    
-  – 01-members-credentials.ipynb
-  
-  – 02-club-token.ipynb
-  
-  – 03-members-receive-club-token.ipynb
-  
-  – 04-voting-smart-contract.ipynb
+  - 01-members-credentials.ipynb
+  - 02-club-token.ipynb
+  - 03-members-receive-club-token.ipynb
+  - 04-voting-smart-contract.ipynb
 
 - **assets**
-  – token
-    - token_info
+  -   token
+      - token_info
 
   - credentials
-    – credentials_temp
+    -   credentials_temp
 
 ## Requirements
 The implementation of our Smart Contract on the Algorand blockchain was primarily driven using Python, since it facilitates interactions. Throughout the project, Python’s Algorand SDK enabled direct communication with the Algorand network to execute smart contracts and manage blockchain transactions effectively.
